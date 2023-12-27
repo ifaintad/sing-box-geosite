@@ -5,13 +5,13 @@
       "domain": [
         "mvod.itunes.apple.com",
         "applemusic.com",
-        "blobstore.apple.com",
-        "audio.itunes.apple.com",
-        "audio-ssl.itunes.apple.com",
-        "music.apple.com",
-        "streamingaudio.itunes.apple.com",
         "aod-ssl.itunes.apple.com",
-        "aod.itunes.apple.com"
+        "music.apple.com",
+        "blobstore.apple.com",
+        "aod.itunes.apple.com",
+        "audio-ssl.itunes.apple.com",
+        "audio.itunes.apple.com",
+        "streamingaudio.itunes.apple.com"
       ]
     },
     {
