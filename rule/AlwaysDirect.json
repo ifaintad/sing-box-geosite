@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain": [
-        "dzh.com.cn",
-        "s2.zdmimg.com"
+        "s2.zdmimg.com",
+        "dzh.com.cn"
       ]
     },
     {
