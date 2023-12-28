@@ -29,5 +29,5 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add ./rule/*.json
-        git commit -m "Add JSON files"
+        git commit -m "Update rules"
         git push
