@@ -1,10 +1,4 @@
 {
-  "rules": [
-    {
-      "package_name": [
-        "# Based on a private repo (unknown)"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 1
 }
