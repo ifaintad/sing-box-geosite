@@ -56,12 +56,16 @@ def parse_and_convert_to_dataframe(link):
         df = read_list_from_url(link)
     return df
 
-def sort_dict(d):
-    if isinstance(d, dict):
-        return {k: sort_dict(d[k]) for k in sorted(d)}
-    if isinstance(d, list):
-        return sorted(sort_dict(x) for x in d)
-    return d
+# 对字典进行排序，含list of dict
+def sort_dict(obj):
+    if isinstance(obj, dict):
+        return {k: sort_dict(obj[k]) for k in sorted(obj)}
+    elif isinstance(obj, list) and all(isinstance(elem, dict) for elem in obj):
+        return sorted([sort_dict(x) for x in obj], key=lambda d: sorted(d.keys())[0])
+    elif isinstance(obj, list):
+        return sorted(sort_dict(x) for x in obj)
+    else:
+        return obj
 
 def parse_list_file(link, output_directory):
     with concurrent.futures.ThreadPoolExecutor() as executor:
