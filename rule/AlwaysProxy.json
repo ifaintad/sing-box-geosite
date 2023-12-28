@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "chatpdf.com",
+        "threads.net",
+        "apkpure.com",
+        "googletagmanager.com",
+        "inty.news",
+        "xn--ngstr-lra8j.com",
+        "meta.com",
+        "buzzsprout.com",
+        "bumingbai.net",
+        "buff.ly",
+        "civitai.com",
+        "econ.st",
+        "reut.rs",
+        "ft.com",
+        "services.googleapis.cn",
+        "bing.com",
+        "appcenter.ms",
+        "threadreaderapp.com",
+        "bitly.com",
+        "post.news",
+        "docker.com",
+        "apnews.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".apkpure.com",
+        ".apnews.com",
+        ".appcenter.ms",
+        ".bing.com",
+        ".bitly.com",
+        ".buff.ly",
+        ".bumingbai.net",
+        ".buzzsprout.com",
+        ".chatpdf.com",
+        ".civitai.com",
+        ".docker.com",
+        ".econ.st",
+        ".ft.com",
+        ".googletagmanager.com",
+        ".inty.news",
+        ".meta.com",
+        ".post.news",
+        ".reut.rs",
+        ".services.googleapis.cn",
+        ".threadreaderapp.com",
+        ".threads.net",
+        ".xn--ngstr-lra8j.com"
+      ]
+    }
+  ]
+}
