@@ -126,6 +126,8 @@ def parse_list_file(link, output_directory):
 with open("../links.txt", 'r') as links_file:
     links = links_file.read().splitlines()
 
+links = [l for l in links if l.strip() and not l.strip().startswith("#")]
+
 output_dir = "./"
 result_file_names = []
 
