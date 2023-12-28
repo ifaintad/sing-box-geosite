@@ -56,6 +56,13 @@ def parse_and_convert_to_dataframe(link):
         df = read_list_from_url(link)
     return df
 
+def sort_dict(d):
+    if isinstance(d, dict):
+        return {k: sort_dict(d[k]) for k in sorted(d)}
+    if isinstance(d, list):
+        return sorted(sort_dict(x) for x in d)
+    return d
+
 def parse_list_file(link, output_directory):
     with concurrent.futures.ThreadPoolExecutor() as executor:
         # 使用executor.map并行处理链接
@@ -105,7 +112,7 @@ def parse_list_file(link, output_directory):
     # 使用 output_directory 拼接完整路径
     file_name = os.path.join(output_directory, f"{os.path.basename(link).split('.')[0]}.json")
     with open(file_name, 'w', encoding='utf-8') as output_file:
-        json.dump(result_rules, output_file, ensure_ascii=False, indent=2)
+        json.dump(sort_dict(result_rules), output_file, ensure_ascii=False, indent=2)
 
     return file_name
 
