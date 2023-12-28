@@ -3,28 +3,28 @@
   "rules": [
     {
       "domain": [
-        "bumingbai.net",
-        "post.news",
-        "chatpdf.com",
-        "meta.com",
-        "econ.st",
         "googletagmanager.com",
+        "bitly.com",
         "buff.ly",
-        "buzzsprout.com",
-        "docker.com",
-        "threadreaderapp.com",
+        "econ.st",
         "reut.rs",
+        "bing.com",
         "xn--ngstr-lra8j.com",
+        "apkpure.com",
+        "chatpdf.com",
+        "ft.com",
+        "buzzsprout.com",
+        "meta.com",
+        "inty.news",
         "civitai.com",
-        "threads.net",
+        "docker.com",
+        "bumingbai.net",
+        "apnews.com",
+        "post.news",
         "appcenter.ms",
         "services.googleapis.cn",
-        "ft.com",
-        "inty.news",
-        "apnews.com",
-        "apkpure.com",
-        "bitly.com",
-        "bing.com"
+        "threads.net",
+        "threadreaderapp.com"
       ]
     },
     {
