@@ -119,7 +119,7 @@ def parse_list_file(link, output_directory):
         json.dump(sort_dict(result_rules), output_file, ensure_ascii=False, indent=2)
 
     srs_path = file_name.replace(".json", ".srs")
-        os.system(f"sing-box rule-set compile --output {srs_path} {file_name}")
+    os.system(f"sing-box rule-set compile --output {srs_path} {file_name}")
     return file_name
 
 # 读取 links.txt 中的每个链接并生成对应的 JSON 文件
