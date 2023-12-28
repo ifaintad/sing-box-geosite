@@ -2,6 +2,7 @@
   "rules": [
     {
       "package_name": [
+        "# Based on a private repo (unknown)",
         "com.android.dazhihui",
         "com.qiyi.video",
         "com.taobao.taobao",
