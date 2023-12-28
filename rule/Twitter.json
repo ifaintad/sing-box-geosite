@@ -1,33 +1,32 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
+        "ads-twitter.com",
+        "cms-twdigitalassets.com",
+        "periscope.tv",
+        "pscp.tv",
+        "t.co",
+        "tellapart.com",
+        "tweetdeck.com",
+        "twimg.co",
+        "twimg.com",
+        "twimg.org",
+        "twitpic.com",
+        "twitter.biz",
         "twitter.com",
         "twitter.jp",
-        "tellapart.com",
-        "twttr.com",
-        "twimg.co",
-        "twimg.org",
-        "periscope.tv",
-        "twitterinc.com",
-        "t.co",
-        "twitter.biz",
-        "pscp.tv",
-        "cms-twdigitalassets.com",
-        "tweetdeck.com",
+        "twittercommunity.com",
         "twitterflightschool.com",
-        "twtrdns.net",
-        "twitpic.com",
-        "ads-twitter.com",
+        "twitterinc.com",
         "twitteroauth.com",
+        "twitterstat.us",
+        "twtrdns.net",
+        "twttr.com",
         "twttr.net",
         "twvid.com",
-        "twittercommunity.com",
-        "twitterstat.us",
         "vine.co",
-        "x.com",
-        "twimg.com"
+        "x.com"
       ]
     },
     {
@@ -75,5 +74,6 @@
         "69.195.160.0/19"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

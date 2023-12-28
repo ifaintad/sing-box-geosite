@@ -1,11 +1,10 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
+        "dzh.com.cn",
         "s2.zdmimg.com",
-        "yundzh.com",
-        "dzh.com.cn"
+        "yundzh.com"
       ]
     },
     {
@@ -15,5 +14,6 @@
         ".yundzh.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

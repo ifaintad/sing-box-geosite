@@ -1,30 +1,29 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "appcenter.ms",
+        "apkpure.com",
         "apnews.com",
-        "ft.com",
-        "post.news",
-        "buff.ly",
-        "threadreaderapp.com",
-        "googletagmanager.com",
-        "xn--ngstr-lra8j.com",
-        "chatpdf.com",
-        "econ.st",
-        "services.googleapis.cn",
-        "civitai.com",
-        "inty.news",
-        "buzzsprout.com",
-        "bumingbai.net",
-        "bitly.com",
-        "meta.com",
-        "reut.rs",
-        "docker.com",
-        "threads.net",
+        "appcenter.ms",
         "bing.com",
-        "apkpure.com"
+        "bitly.com",
+        "buff.ly",
+        "bumingbai.net",
+        "buzzsprout.com",
+        "chatpdf.com",
+        "civitai.com",
+        "docker.com",
+        "econ.st",
+        "ft.com",
+        "googletagmanager.com",
+        "inty.news",
+        "meta.com",
+        "post.news",
+        "reut.rs",
+        "services.googleapis.cn",
+        "threadreaderapp.com",
+        "threads.net",
+        "xn--ngstr-lra8j.com"
       ]
     },
     {
@@ -53,5 +52,6 @@
         ".xn--ngstr-lra8j.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
