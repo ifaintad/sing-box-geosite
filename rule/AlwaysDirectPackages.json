@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "package_name": [
+        "com.android.dazhihui",
+        "com.qiyi.video",
+        "com.taobao.taobao",
+        "com.tencent.mm",
+        "com.tencent.mobileqq"
+      ]
+    }
+  ],
+  "version": 1
+}
