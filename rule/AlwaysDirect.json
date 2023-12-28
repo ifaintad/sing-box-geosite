@@ -4,13 +4,15 @@
     {
       "domain": [
         "s2.zdmimg.com",
+        "yundzh.com",
         "dzh.com.cn"
       ]
     },
     {
       "domain_suffix": [
         ".dzh.com.cn",
-        ".s2.zdmimg.com"
+        ".s2.zdmimg.com",
+        ".yundzh.com"
       ]
     }
   ]
