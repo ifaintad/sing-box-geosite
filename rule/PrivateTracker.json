@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "00.alarmasqueretaro.com",
         "1337.abcvg.info",
         "1c.premierzal.ru",
         "1ptba.com",
@@ -104,6 +105,7 @@
         "j99.info",
         "joyhd.net",
         "jpopsuki.eu",
+        "jutone.com",
         "kamept.com",
         "karagarga.in",
         "keepfrds.com",
@@ -152,6 +154,7 @@
         "pthome.net",
         "ptsbao.club",
         "pttime.org",
+        "public.tracker.vraphim.com",
         "pussytorrents.org",
         "redacted.ch",
         "retracker.hotplug.ru",
@@ -202,6 +205,7 @@
         "tracker.fnix.net",
         "tracker.gbitt.info",
         "tracker.gcrreen.xyz",
+        "tracker.imgoingto.icu",
         "tracker.ipv6tracker.ru",
         "tracker.kuroy.me",
         "tracker.lilithraws.cf",
@@ -222,13 +226,11 @@
         "tracker.swateam.org.uk",
         "tracker.t-rb.org",
         "tracker.tamersunion.org",
-        "tracker.teambelgium.net",
         "tracker.theoks.net",
         "tracker.therarbg.com",
         "tracker.therarbg.to",
         "tracker.tiny-vps.com",
         "tracker.torrent.eu.org",
-        "tracker.torrust-demo.com",
         "tracker.tryhackx.org",
         "tracker.yemekyedim.com",
         "tracker1.520.jp",
@@ -257,7 +259,6 @@
         "x.t-1.org",
         "xauat6.edu.cn",
         "y.paranoid.agency",
-        "yahor.of.by",
         "yolo.liberbear.com"
       ]
     },
