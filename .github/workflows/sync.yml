@@ -46,3 +46,10 @@ jobs:
           git commit -m "Update rules"
           git push
         fi
+
+    - name: Purge jsdelivr CDN
+      run: |
+        cd rule || exit 1
+        for file in $(ls); do
+          curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}/rule/${file}"
+        done
