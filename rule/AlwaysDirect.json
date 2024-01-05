@@ -3,6 +3,8 @@
     {
       "domain": [
         "dzh.com.cn",
+        "e-duang.com",
+        "poiuytre.xyz",
         "s2.zdmimg.com",
         "yundzh.com"
       ]
@@ -10,6 +12,8 @@
     {
       "domain_suffix": [
         ".dzh.com.cn",
+        ".e-duang.com",
+        ".poiuytre.xyz",
         ".s2.zdmimg.com",
         ".yundzh.com"
       ]
