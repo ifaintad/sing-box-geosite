@@ -20,3 +20,4 @@ https://raw.githubusercontent.com/ifaintad/surgeRules/release/Proxy.list
 https://raw.githubusercontent.com/ifaintad/surgeRules/release/Scholar.list
 https://raw.githubusercontent.com/ifaintad/surgeRules/release/Telegram.list
 https://raw.githubusercontent.com/ifaintad/surgeRules/release/YouTube.list
+https://raw.githubusercontent.com/ifaintad/surgeRules/release/CloudFlareIP.list
