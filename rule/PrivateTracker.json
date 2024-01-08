@@ -3,7 +3,6 @@
     {
       "domain": [
         "1337.abcvg.info",
-        "1c.premierzal.ru",
         "1ptba.com",
         "2xfree.org",
         "52pt.site",
@@ -28,7 +27,7 @@
         "bittorrent-tracker.e-n-c-r-y-p-t.net",
         "bittorrent.com",
         "black-bird.ynh.fr",
-        "blutopia.xyz",
+        "blutopia.cc",
         "broadcasthe.net",
         "bt.ktrackers.com",
         "bt.okmp3.ru",
@@ -42,7 +41,6 @@
         "ccfbits.org",
         "cgpeers.com",
         "ch3oh.ru",
-        "chdbits.co",
         "cinemageddon.net",
         "cinematik.net",
         "cinemaz.to",
@@ -111,7 +109,6 @@
         "leaguehd.com",
         "lemonhd.org",
         "lztr.me",
-        "m-team.cc",
         "madsrevolution.net",
         "mail.artixlinux.org",
         "moecat.best",
@@ -168,7 +165,6 @@
         "su-data.com",
         "t.acg.rip",
         "t.nyaatracker.com",
-        "t.overflow.biz",
         "t1.hloli.org",
         "tamas3.ynh.fr",
         "thinking.duckdns.org",
@@ -188,7 +184,6 @@
         "tracker.artixlinux.org",
         "tracker.birkenwald.de",
         "tracker.bt4g.com",
-        "tracker.ccp.ovh",
         "tracker.cloudit.top",
         "tracker.cubonegro.lol",
         "tracker.cyberia.is",
@@ -258,12 +253,15 @@
         "x.t-1.org",
         "xauat6.edu.cn",
         "y.paranoid.agency",
+        "yahor.of.by",
         "yolo.liberbear.com"
       ]
     },
     {
       "domain_keyword": [
         "announce",
+        "chdbits",
+        "m-team",
         "torrent",
         "tracker"
       ]
@@ -287,14 +285,13 @@
         ".beyond-hd.me",
         ".bibliotik.me",
         ".bittorrent.com",
-        ".blutopia.xyz",
+        ".blutopia.cc",
         ".broadcasthe.net",
         ".btschool.club",
         ".bwtorrents.tv",
         ".byr.pt",
         ".ccfbits.org",
         ".cgpeers.com",
-        ".chdbits.co",
         ".cinemageddon.net",
         ".cinematik.net",
         ".cinemaz.to",
@@ -349,7 +346,6 @@
         ".leaguehd.com",
         ".lemonhd.org",
         ".lztr.me",
-        ".m-team.cc",
         ".madsrevolution.net",
         ".moecat.best",
         ".msg.vg",
