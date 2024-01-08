@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "stackoverflow.com",
+        "v2ex.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".stackoverflow.com",
+        ".v2ex.com"
+      ]
+    }
+  ],
+  "version": 1
+}
