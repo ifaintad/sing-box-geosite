@@ -2,12 +2,14 @@
   "rules": [
     {
       "domain": [
+        "chocolatey.org",
         "stackoverflow.com",
         "v2ex.com"
       ]
     },
     {
       "domain_suffix": [
+        ".chocolatey.org",
         ".stackoverflow.com",
         ".v2ex.com"
       ]
