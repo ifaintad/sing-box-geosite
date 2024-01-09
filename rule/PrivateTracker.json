@@ -225,6 +225,7 @@
         "tracker.tiny-vps.com",
         "tracker.torrent.eu.org",
         "tracker.tryhackx.org",
+        "tracker.vds.nz",
         "tracker.yemekyedim.com",
         "tracker1.520.jp",
         "tracker1.bt.moack.co.kr",
@@ -262,8 +263,7 @@
         "announce",
         "chdbits",
         "m-team",
-        "torrent",
-        "tracker"
+        "torrent"
       ]
     },
     {
