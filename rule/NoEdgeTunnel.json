@@ -3,6 +3,7 @@
     {
       "domain": [
         "chocolatey.org",
+        "sourceforge.net",
         "stackoverflow.com",
         "v2ex.com"
       ]
@@ -10,6 +11,7 @@
     {
       "domain_suffix": [
         ".chocolatey.org",
+        ".sourceforge.net",
         ".stackoverflow.com",
         ".v2ex.com"
       ]
