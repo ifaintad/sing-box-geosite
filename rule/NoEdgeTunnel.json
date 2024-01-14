@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "bulianglin.com",
         "chocolatey.org",
         "docker.com",
         "sourceforge.net",
@@ -11,6 +12,7 @@
     },
     {
       "domain_suffix": [
+        ".bulianglin.com",
         ".chocolatey.org",
         ".docker.com",
         ".sourceforge.net",
