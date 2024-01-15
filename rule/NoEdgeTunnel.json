@@ -6,7 +6,8 @@
         "chocolatey.org",
         "sourceforge.net",
         "stackoverflow.com",
-        "v2ex.com"
+        "v2ex.com",
+        "whatismyipaddress.com"
       ]
     },
     {
@@ -15,7 +16,8 @@
         ".chocolatey.org",
         ".sourceforge.net",
         ".stackoverflow.com",
-        ".v2ex.com"
+        ".v2ex.com",
+        ".whatismyipaddress.com"
       ]
     }
   ],
