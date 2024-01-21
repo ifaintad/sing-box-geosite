@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "apkcombo.com",
         "bulianglin.com",
         "chocolatey.org",
         "sourceforge.net",
@@ -12,6 +13,7 @@
     },
     {
       "domain_suffix": [
+        ".apkcombo.com",
         ".bulianglin.com",
         ".chocolatey.org",
         ".sourceforge.net",
