@@ -24,3 +24,4 @@ https://raw.githubusercontent.com/ifaintad/surgeRules/release/CloudFlareIP.list
 https://raw.githubusercontent.com/ifaintad/surgeRules/release/NoEdgeTunnel.list
 https://raw.githubusercontent.com/ifaintad/surgeRules/release/Google.list
 https://raw.githubusercontent.com/ifaintad/surgeRules/release/Docker.list
+https://raw.githubusercontent.com/ifaintad/surgeRules/release/Twitter.list
