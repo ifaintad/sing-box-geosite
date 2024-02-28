@@ -27,3 +27,4 @@ https://raw.githubusercontent.com/ifaintad/surgeRules/release/Docker.list
 https://raw.githubusercontent.com/ifaintad/surgeRules/release/Twitter.list
 https://raw.githubusercontent.com/ifaintad/surgeRules/release/Spotify.list
 https://raw.githubusercontent.com/ifaintad/surgeRules/release/YouTubeMusic.list
+https://raw.githubusercontent.com/ifaintad/surgeRules/release/SpotifyAD.list
